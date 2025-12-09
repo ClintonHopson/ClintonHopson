@@ -9,7 +9,7 @@
 
 
 - <b>osMicrosoft Azure   
-  - [Configuring  Active Directory within Azure VMs](On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+  - [Configuring  Active Directory within Azure VMs](https://github.com/ClintonHopson/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/clintonhopson/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
