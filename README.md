@@ -15,7 +15,10 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/YOUR_USERNAME)
+
+
+
 
 
 [linkedin]: https://linkedin.com/in/ClintonHopson96
