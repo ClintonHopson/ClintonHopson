@@ -21,4 +21,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/clintonhopson96/
+[linkedin]: www.linkedin.com/in/clintonhopson96
