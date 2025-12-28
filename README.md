@@ -21,5 +21,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/ClintonHopson96
-[instagram]: https://www.instagram.com/prezident.clint/
+[linkedin]: https://www.linkedin.com/in/clintonhopson96/
