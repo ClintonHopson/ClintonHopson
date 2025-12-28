@@ -15,7 +15,8 @@
 <h2>🤳Connect with me:</h2>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/clintonhopson96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/clintonhopson96)
+
 
 
 
