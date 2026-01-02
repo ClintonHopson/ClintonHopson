@@ -1,4 +1,5 @@
 <h1>Hi, I'm Clinton , an <a href="https://linkedin.com/in/ClintonHopson">IT Professional</a>☺</h1>
+I’m based in Georgia, USA, and I enjoy learning new technologies and finding practical ways to apply them in everyday life. I’m passionate about continuous learning, problem-solving, and using technology to help people work more efficiently.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
